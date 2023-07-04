@@ -3,7 +3,7 @@
 This repository serves as a comprehensive test case samples portfolio, demonstrating my expertise in creating effective and thorough test cases. It is designed to provide a preview of my capabilities and showcase my ability to design and execute test scenarios.
 
 ## Accessing the Test Case Samples
-To access the test case samples, you can either download them from the repo otherwise please click the following link: [redirect](https://docs.google.com/spreadsheets/d/1xZfqnTAUwk_6Iv3e6qZ-ucyeBKe9FoT7UNw6jTFqFas/edit#gid=1782426651).
+To access the test case samples, you can either download them from the repo otherwise please click the following link: [redirect]([https://docs.google.com/spreadsheets/d/1xZfqnTAUwk_6Iv3e6qZ-ucyeBKe9FoT7UNw6jTFqFas/edit#gid=1782426651](https://docs.google.com/spreadsheets/d/1xZfqnTAUwk_6Iv3e6qZ-ucyeBKe9FoT7UNw6jTFqFas/edit?usp=sharing)).
 
 
 The link will redirect you to a Google Spreadsheet document, where you can explore a collection of test cases presented in an organized and structured format. The Google Spreadsheet platform offers an intuitive and user-friendly interface for browsing and evaluating the test case samples.
